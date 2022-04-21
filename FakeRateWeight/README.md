@@ -4,7 +4,7 @@ The fake rate root file contains sevarel histograms plotting the fake rate as a 
 
 "PrefitFR_barrel" and "PrefitFR_endcap" are the fake rates obtained by simple prompt subtraction without maximum likelyhood fitting.
 "PostfitFR_barrel" and "PostfitFR_endcap" are the fake rates obtained by performing maximum likelyhood fitting and then subtracting data with prompt.
-"JetToEle(Mu,Tau)Pre(Post)fit" are the corresponding 2D histogram combined both barrel and endcap regions. 
+"JetToEle(Mu,Tau)Pre(Post)fit" are the corresponding 2D histogram combined both barrel and endcap regions, or DM for tau. 
 
 Instead of binning by barrel and endcap, the faka rate for jet to hadronic tau are binned as functions of reconstructed decay mode.
 
