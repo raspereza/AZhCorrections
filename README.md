@@ -1,5 +1,5 @@
 # AZhCorrections
-This repo stored the corrections used for the AZh to (ll tau tau analysis
+This repo stores the corrections used for the A->Zh->(ll)(tautau) analysis.
 
 ## Plotting muon efficiencies
 
@@ -25,7 +25,7 @@ void PlotMuonEff(TString era = "2018",
 		 bool trigger = true) {
 ```
 
-## Plotting electron efficiencise
+## Plotting electron efficiencies
 
 Electron efficiencies are plotted with macro [PlotElectronEff.C](https://github.com/raspereza/AZhCorrections/blob/master/PlotElectronEff.C). The input arguments for the macro are:
 
